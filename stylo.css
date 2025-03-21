@@ -84,7 +84,13 @@ p:hover {
     .container {
         padding: 15px;
     }
+    h1 {
+        font-size: 32px;
+    }
     p {
         font-size: 16px;
+    }
+    button {
+        font-size: 18px;
     }
 }
